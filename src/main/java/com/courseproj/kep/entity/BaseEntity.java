@@ -1,4 +1,4 @@
-package com.courseproj.kep.entities;
+package com.courseproj.kep.entity;
 
 import java.io.Serializable;
 

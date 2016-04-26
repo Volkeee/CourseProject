@@ -1,4 +1,4 @@
-package com.courseproj.kep.service.route.impl;
+package com.courseproj.kep.route.service.impl;
 
 /**
  * Created by ВІТЯНЯ on 14.04.2016.
